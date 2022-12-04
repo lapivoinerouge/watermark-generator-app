@@ -1,0 +1,9 @@
+{
+  "name": "watermark-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.16.2"
+  }
+}
